@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://suspicious-kalam-771ad4.netlify.com/"
+baseURL = "httsp://www.roberttillotson.com"
 languageCode = "en-US"
 title = "Robert Tillotson - Digital Nomad - Insurance - Real Estate - Austin , Marfa , New Orleans"
 theme = "hugo-split-theme"
@@ -15,9 +15,9 @@ copyright = "&copy;2019 population2.com"
 
   # Metadata for search engines and social sharing
   author = "Robert Tillotson"
-  description = "Welcome to my professional online presence with a big image or video left with alongside content."
+  description = "Robert Tillotson - Digital Nomad - Insurance - Real Estate - Austin , Marfa , New Orleans"
   shareImage = "images/social.jpg"
-  twitterHandle = "onepagelove"
+  twitterHandle = "tilloglobe"
 
   # Favicon
   favicon = "favicon.ico"
@@ -95,4 +95,3 @@ copyright = "&copy;2019 population2.com"
   # Please keep the original attribution link when using for your own project.
   # If you'd like to use the template without the attribution, you can check out
   # the license option via the template author's website: https://onepagelove.com/split
-
