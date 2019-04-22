@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://suspicious-kalam-771ad4.netlify.com/"
 languageCode = "en-US"
-title = "Robert Tillotson - Digital Nomad - Travel Insurance - Real Estate - Austin , Marfa , New Orleans"
+title = "Robert Tillotson - Digital Nomad - Insurance - Real Estate - Austin , Marfa , New Orleans"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
