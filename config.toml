@@ -63,7 +63,7 @@ copyright = "&copy;2019 population2.com"
       heading = "Social"
 
       [[params.links.list2.link]]
-        text = "Twitter"
+        text = "AirBNB"
         url = "#"
 
       [[params.links.list2.link]]
@@ -71,7 +71,7 @@ copyright = "&copy;2019 population2.com"
         url = "#"
 
       [[params.links.list2.link]]
-        text = "Dribbble"
+        text = "Facebook"
         url = "#"
 
   # Links List #3
@@ -80,15 +80,15 @@ copyright = "&copy;2019 population2.com"
       heading = "Network"
 
       [[params.links.list3.link]]
-        text = "Link One"
+        text = "Global Health Benefit"
         url = "#"
 
       [[params.links.list3.link]]
-        text = "Link Two"
+        text = "Rancho Estrella Holdings"
         url = "#"
 
       [[params.links.list3.link]]
-        text = "Link Three"
+        text = "Consulting Services"
         url = "#"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
