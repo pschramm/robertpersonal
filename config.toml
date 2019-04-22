@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://www.roberttillotson.com/"
+baseURL = "https://www.roberttillotson.com/"
 languageCode = "en-US"
 title = "Robert Tillotson - Digital Nomad - Insurance - Real Estate - Austin , Marfa , New Orleans"
 theme = "hugo-split-theme"
